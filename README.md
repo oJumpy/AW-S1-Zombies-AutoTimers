@@ -1,7 +1,8 @@
 # AW-Zombies-AutoTimers
 A multi-functional LiveSplit script for Call of Duty: Advanced Warfare Zombies. 
 
-# [Download v1.3](https://github.com/oJumpy/AW-Zombies-AutoTimers/releases/download/v1.3/AW.v1.3.asl)
+# [Download v1.4](https://github.com/oJumpy/AW-Zombies-AutoTimers/releases/download/v1.4/AW.v1.4.asl)
+## [Competitive-S1 ](https://gitlab.com/EvelynYuki/Competitive-S1)
 
 ## Setup
 1. Download Livesplit [Site](https://livesplit.org/downloads/) or [Direct Link](https://github.com/LiveSplit/LiveSplit/releases/download/1.8.33/LiveSplit_1.8.33.zip)
